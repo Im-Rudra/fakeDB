@@ -3,6 +3,7 @@
     "id": "985461889",
     "title": "Getting Started with Next.js",
     "img": "https://cdn.fs.teachablecdn.com/rGOFGfRTKu5iD5FRTewa",
+    "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/a5JcpzKrRtuvjLbeVIl7",
     "price": 12.99,
     "description": "Next.js is a modern React framework for creating lighting-fast, static websites, but also comes with the added ability of SSR (server-side rendering). In this Next.js tutorial series we'll learn how to create a Next.js application from the ground up & see how to deploy it to the web using Vercel & GitHub."
   },
@@ -10,6 +11,7 @@
     "id": "985469889",
     "title": "Node.js Crash Course",
     "img": "https://cdn.fs.teachablecdn.com/UBiqMLppSEihUD5LI7BA",
+    "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/9fPHe00Tn2lKlIoHwmZI",
     "price": 13.99,
     "description": "Node.js is a JavaScript runtime that allows us to run JavaScript code outside the confines of a browser! That means you can power your website's back-end using JavaScript with the help of Node.js. It also means you can run JavaScript directly on your computer - which is awesome! In this course you'll learn how to install Node & how to use it on your own computer. I'll also show you how to power a website using Node.js & Express (a node web framework), from scratch."
   },
@@ -17,6 +19,7 @@
     "id": "948469889",
     "title": "HTML & CSS Crash Course",
     "img": "https://cdn.fs.teachablecdn.com/6oadsMCBQ82r522pzJkz",
+    "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/1uCgossTRXqBImbdOwxo",
     "price": 9.99,
     "description": "If you're brand new to web development and ant to get started building websites, then look no further than this introduction to HTML & CSS. HTML & CSS are the core building blocks of front-end web development and are used to structure website content and control the visual design of them too. By the end of this course you'll have a great foundation in front-end web development & will be able to make your own responsive websites from scratch."
   }
