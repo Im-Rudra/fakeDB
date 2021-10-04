@@ -24,6 +24,14 @@
     "description": "In this course you'll learn how to make a content-driven website using Next.js & Contentful (which is a headless CMS). A headless CMS is a place to store content (like page content, blog posts, images etc) but without the front-end that a typical CMS comes with. For that, you'll use Next.js & pull in content stored in Contentful."
   },
   {
+    "id": "154879889",
+    "title": "Firebase Hosting Crash Course",
+    "img": "https://cdn.fs.teachablecdn.com/FJmv3uVITJiqRkO3GRBw",
+    "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/0LTsnDGsSjCWfCGaFTRc",
+    "price": 13.99,
+    "description": "Firebase is a back-end service provided by Google & offers a multitude of products we can use - a real-time database, cloud functions, image storage, authentication and... Hosting. In this Firebase Hosting crash course I'll show you how to deploy your websites to Firebase."
+  },
+  {
     "id": "948469889",
     "title": "HTML & CSS Crash Course",
     "img": "https://cdn.fs.teachablecdn.com/6oadsMCBQ82r522pzJkz",
