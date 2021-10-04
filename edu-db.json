@@ -16,6 +16,14 @@
     "description": "Node.js is a JavaScript runtime that allows us to run JavaScript code outside the confines of a browser! That means you can power your website's back-end using JavaScript with the help of Node.js. It also means you can run JavaScript directly on your computer - which is awesome! In this course you'll learn how to install Node & how to use it on your own computer. I'll also show you how to power a website using Node.js & Express (a node web framework), from scratch."
   },
   {
+    "id": "989879889",
+    "title": "Next.js & Contentful Tutorial",
+    "img": "https://cdn.fs.teachablecdn.com/wQU1TPbETdaGqkAawUm4",
+    "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/1Nn9v7IVSZat9gPycGow",
+    "price": 13.99,
+    "description": "In this course you'll learn how to make a content-driven website using Next.js & Contentful (which is a headless CMS). A headless CMS is a place to store content (like page content, blog posts, images etc) but without the front-end that a typical CMS comes with. For that, you'll use Next.js & pull in content stored in Contentful."
+  },
+  {
     "id": "948469889",
     "title": "HTML & CSS Crash Course",
     "img": "https://cdn.fs.teachablecdn.com/6oadsMCBQ82r522pzJkz",
