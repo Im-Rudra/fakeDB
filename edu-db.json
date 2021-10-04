@@ -1,6 +1,6 @@
 [
   {
-    "id": "985461889",
+    "id": "1",
     "title": "Getting Started with Next.js",
     "img": "https://cdn.fs.teachablecdn.com/rGOFGfRTKu5iD5FRTewa",
     "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/a5JcpzKrRtuvjLbeVIl7",
@@ -8,7 +8,7 @@
     "description": "Next.js is a modern React framework for creating lighting-fast, static websites, but also comes with the added ability of SSR (server-side rendering). In this Next.js tutorial series we'll learn how to create a Next.js application from the ground up & see how to deploy it to the web using Vercel & GitHub."
   },
   {
-    "id": "985469889",
+    "id": "2",
     "title": "Node.js Crash Course",
     "img": "https://cdn.fs.teachablecdn.com/UBiqMLppSEihUD5LI7BA",
     "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/9fPHe00Tn2lKlIoHwmZI",
@@ -16,7 +16,7 @@
     "description": "Node.js is a JavaScript runtime that allows us to run JavaScript code outside the confines of a browser! That means you can power your website's back-end using JavaScript with the help of Node.js. It also means you can run JavaScript directly on your computer - which is awesome! In this course you'll learn how to install Node & how to use it on your own computer. I'll also show you how to power a website using Node.js & Express (a node web framework), from scratch."
   },
   {
-    "id": "989879889",
+    "id": "3",
     "title": "Next.js & Contentful Tutorial",
     "img": "https://cdn.fs.teachablecdn.com/wQU1TPbETdaGqkAawUm4",
     "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/1Nn9v7IVSZat9gPycGow",
@@ -24,7 +24,7 @@
     "description": "In this course you'll learn how to make a content-driven website using Next.js & Contentful (which is a headless CMS). A headless CMS is a place to store content (like page content, blog posts, images etc) but without the front-end that a typical CMS comes with. For that, you'll use Next.js & pull in content stored in Contentful."
   },
   {
-    "id": "153279889",
+    "id": "4",
     "title": "Firebase Hosting Crash Course",
     "img": "https://cdn.fs.teachablecdn.com/FJmv3uVITJiqRkO3GRBw",
     "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/0LTsnDGsSjCWfCGaFTRc",
@@ -32,7 +32,7 @@
     "description": "Firebase is a back-end service provided by Google & offers a multitude of products we can use - a real-time database, cloud functions, image storage, authentication and... Hosting. In this Firebase Hosting crash course I'll show you how to deploy your websites to Firebase."
   },
   {
-    "id": "154823889",
+    "id": "5",
     "title": "Learn Go (Golang)",
     "img": "https://cdn.fs.teachablecdn.com/YaYU0l6vSpG1DBIrGEjs",
     "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/eRW5faFmSge2osaHPC8Q",
@@ -40,7 +40,7 @@
     "description": "Go is a general purpose programming language which can be used for many things-to create REST API's, cloud services & build web apps. It's fast, it's fun & it's relatvely easy to pick up and run with. In this Go tutorial you'll learn how to install Go & use all the basic features & types. You'll also use your new found skills to reate a small command line application to create and save cafe bills. Check out the trailer below for more details."
   },
   {
-    "id": "456823889",
+    "id": "6",
     "title": "Bootstrap 5 Crash Course",
     "img": "https://cdn.fs.teachablecdn.com/PJrwjEG1RGEr6kDnb4Bu",
     "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/TGmZRMXDTzaq1KnjRiGi",
@@ -48,7 +48,7 @@
     "description": "Bootstrap 5 is the newest version of Bootstrap to be released. In this series you'll learn how to use the Bootstrap CSS framework to create responsive & interactive web pages, from scratch. You'll learn about grid layouts, modals, navbars, cards, tabs & much more - as well as the new features & components in Bootstrap 5. You'll also see how to customize Bootstrap 5 to make your sites look more unique. See the course preview video at the bottom of the page for more info!"
   },
   {
-    "id": "456653889",
+    "id": "7",
     "title": "Build Websites with Vue 3 & Firebase",
     "img": "https://cdn.fs.teachablecdn.com/Uk01bDKQ46wXbetRURW9",
     "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/zFfXpVHETZeTQmySgOZq",
@@ -56,7 +56,7 @@
     "description": "Learn Vue.js 3 (the latest major version) and Firebase from the ground-up to create amazing, interactive, content-driven & dynamic websites. In this course you'll learn Vue.js from the very beginning & create multiple projects - a live chatroom, a project planner, a reaction timer and a social music playlist site. You'll also learn the latest Vue 3 features such as the Composition API."
   },
   {
-    "id": "556653659",
+    "id": "8",
     "title": "Flutter Tutorial for Beginners",
     "img": "https://cdn.fs.teachablecdn.com/TtFjxf2STRaKKcKsaHUq",
     "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/OlwlomQIGlJ5pMXS4Yyg",
@@ -64,7 +64,7 @@
     "description": "Flutter is a mobile UI framework developed by Google, used to make native mobile apps. To create Flutter apps we use a language called Dart, also developed by Google. In this Flutter course, you'll learn the basics of Dart, from the ground up, and develop a Flutter app from scratch. I'll also show you how to preview your apps on an android emulator."
   },
   {
-    "id": "532153659",
+    "id": "9",
     "title": "TypeScript Tutorial",
     "img": "https://cdn.fs.teachablecdn.com/ZGQ0dgbR7CeXTfMJY5fl",
     "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/qY8B700MQFijUcEP54Zm",
