@@ -24,12 +24,52 @@
     "description": "In this course you'll learn how to make a content-driven website using Next.js & Contentful (which is a headless CMS). A headless CMS is a place to store content (like page content, blog posts, images etc) but without the front-end that a typical CMS comes with. For that, you'll use Next.js & pull in content stored in Contentful."
   },
   {
-    "id": "154879889",
+    "id": "153279889",
     "title": "Firebase Hosting Crash Course",
     "img": "https://cdn.fs.teachablecdn.com/FJmv3uVITJiqRkO3GRBw",
     "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/0LTsnDGsSjCWfCGaFTRc",
-    "price": 13.99,
+    "price": 14.99,
     "description": "Firebase is a back-end service provided by Google & offers a multitude of products we can use - a real-time database, cloud functions, image storage, authentication and... Hosting. In this Firebase Hosting crash course I'll show you how to deploy your websites to Firebase."
+  },
+  {
+    "id": "154823889",
+    "title": "Learn Go (Golang)",
+    "img": "https://cdn.fs.teachablecdn.com/YaYU0l6vSpG1DBIrGEjs",
+    "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/eRW5faFmSge2osaHPC8Q",
+    "price": 11.54,
+    "description": "Go is a general purpose programming language which can be used for many things-to create REST API's, cloud services & build web apps. It's fast, it's fun & it's relatvely easy to pick up and run with. In this Go tutorial you'll learn how to install Go & use all the basic features & types. You'll also use your new found skills to reate a small command line application to create and save cafe bills. Check out the trailer below for more details."
+  },
+  {
+    "id": "456823889",
+    "title": "Bootstrap 5 Crash Course",
+    "img": "https://cdn.fs.teachablecdn.com/PJrwjEG1RGEr6kDnb4Bu",
+    "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/TGmZRMXDTzaq1KnjRiGi",
+    "price": 10.55,
+    "description": "Bootstrap 5 is the newest version of Bootstrap to be released. In this series you'll learn how to use the Bootstrap CSS framework to create responsive & interactive web pages, from scratch. You'll learn about grid layouts, modals, navbars, cards, tabs & much more - as well as the new features & components in Bootstrap 5. You'll also see how to customize Bootstrap 5 to make your sites look more unique. See the course preview video at the bottom of the page for more info!"
+  },
+  {
+    "id": "456653889",
+    "title": "Build Websites with Vue 3 & Firebase",
+    "img": "https://cdn.fs.teachablecdn.com/Uk01bDKQ46wXbetRURW9",
+    "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/zFfXpVHETZeTQmySgOZq",
+    "price": 15.95,
+    "description": "Learn Vue.js 3 (the latest major version) and Firebase from the ground-up to create amazing, interactive, content-driven & dynamic websites. In this course you'll learn Vue.js from the very beginning & create multiple projects - a live chatroom, a project planner, a reaction timer and a social music playlist site. You'll also learn the latest Vue 3 features such as the Composition API."
+  },
+  {
+    "id": "556653659",
+    "title": "Flutter Tutorial for Beginners",
+    "img": "https://cdn.fs.teachablecdn.com/TtFjxf2STRaKKcKsaHUq",
+    "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/OlwlomQIGlJ5pMXS4Yyg",
+    "price": 14.95,
+    "description": "Flutter is a mobile UI framework developed by Google, used to make native mobile apps. To create Flutter apps we use a language called Dart, also developed by Google. In this Flutter course, you'll learn the basics of Dart, from the ground up, and develop a Flutter app from scratch. I'll also show you how to preview your apps on an android emulator."
+  },
+  {
+    "id": "532153659",
+    "title": "TypeScript Tutorial",
+    "img": "https://cdn.fs.teachablecdn.com/ZGQ0dgbR7CeXTfMJY5fl",
+    "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/qY8B700MQFijUcEP54Zm",
+    "price": 13.85,
+    "description": "TypeScript is a programming language that builds on JavaScript by adding extra features & static type definitions. For this reason it's becoming more and more popular with developers as an alternative to JavaScript to create websites. In this TypeScript tutorial series you'll learn TypeScript from scratch and learn about the many benefits it has to offer. I do assume basic JavaScript knowledge."
   },
   {
     "id": "948469889",
