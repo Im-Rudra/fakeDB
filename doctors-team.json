@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dr. Smith",
+    "specialist": "Cardiologist",
+    "img": "https://i.ibb.co/BP9qgV7/cardiologist.jpg",
+    "fees": 12,
+    "checkup-time": "5PM - 7PM",
+    "description": "A cardiologist is a doctor that deals with the cardiovascular system. This means he or she treats any abnormality in our blood vessels and heart. This can include heart disease or condition which requires diagnosis and treatment."
+  },
+  {
+    "name": "Dr. Schamander",
+    "specialist": "Dentist",
+    "img": "https://i.ibb.co/BrGsLt7/dentist.jpg",
+    "fees": 12,
+    "checkup-time": "3PM - 5PM",
+    "description": "According to American Dental Association, a dentist is a doctor of oral health. Oral health includes teeth, tongue and gums. A dentist is known to diagnose and treat issues of these three areas"
+  },
+  {
+    "name": "Dr. Kathrian",
+    "specialist": "Paediatrician",
+    "img": "https://i.ibb.co/q0qwJBd/paediatrician.jpg",
+    "fees": 12,
+    "checkup-time": "1PM - 3PM",
+    "description": "Paediatricians are doctors who treat children. Since a child’s body functions in a different manner from ours, due to many factors like age and growing stages, their illness and health issues are different from an adult. A paediatrician helps in mental behaviour issues and physical health problems."
+  },
+  {
+    "name": "Dr. Elina",
+    "specialist": "Gynaecologist",
+    "img": "https://i.ibb.co/5FTypVv/gynaecologist.jpg",
+    "fees": 12,
+    "checkup-time": "11AM - 1PM",
+    "description": "A gynaecologist is trained to treat the female reproductive system which includes the vagina, uterus, ovaries and breasts."
+  },
+  {
+    "name": "Dr. Jonson",
+    "specialist": "Orthopaedic surgeon",
+    "img": "https://i.ibb.co/dWYDHcN/orthopaedic-surgeon.jpg",
+    "fees": 12,
+    "checkup-time": "9AM - 11AM",
+    "description": "An orthopaedic surgeon is known to deal with issues relating to the musculoskeletal system. This means muscles and bones. Any fracture, pain or abnormality of these areas need to be consulted about with an orthopaedic surgeon"
+  },
+  {
+    "name": "Dr. Lora",
+    "specialist": "Psychiatrists",
+    "img": "https://i.ibb.co/VH2rZLL/psychiatrists.jpg",
+    "fees": 12,
+    "checkup-time": "7PM - 9PM",
+    "description": "Mental health is a vast field which requires our uttermost attention. Therefore, to treat what goes inside a human brain is difficult, due to the uncertainty of it. A psychiatrist helps treat and diagnose issues of mental health"
+  }
+]
