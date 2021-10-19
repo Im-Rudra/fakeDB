@@ -22,5 +22,11 @@
     "header": "Lab Support",
     "serviceName": "Laboratory and diagnostic care",
     "description": "We have world class mechinaries for your body tests and other needs. If doctors recommend you for any test or diagnosis, You do not need to go our for that. We have all the machinaries to test all of your difficult problems"
+  },
+  {
+    "id": 5,
+    "header": "Therapy",
+    "serviceName": "Physical and occupational therapy",
+    "description": "At every treatment. Always medicine is not effective. At that time physical therapy could be a good solution. We have our special thrapist. Stay with us at every therapy"
   }
 ]
