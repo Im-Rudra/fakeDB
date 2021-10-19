@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "header": "Emergency",
+    "serviceName": "Emergency & Ambulence",
+    "description": "We have fast ambulence service for your emergency situation. And we have our emergency team for 24/7 at you service."
+  },
+  {
+    "id": 2,
+    "header": "Specialists",
+    "serviceName": "Specialized Doctors",
+    "description": "In our team, we have all type of doctor to reduce your hassle. So you will get every type of medical support from our spceialized doctors at different medicel sides."
+  },
+  {
+    "id": 3,
+    "header": "Menteal Health",
+    "serviceName": "Mental health care service",
+    "description": "We have our mental health specialist. Any kind of mental health problem? Come to our specialists. They will take care of you."
+  },
+  {
+    "id": 4,
+    "header": "Lab Support",
+    "serviceName": "Laboratory and diagnostic care",
+    "description": "We have world class mechinaries for your body tests and other needs. If doctors recommend you for any test or diagnosis, You do not need to go our for that. We have all the machinaries to test all of your difficult problems"
+  }
+]
